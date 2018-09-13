@@ -7,7 +7,7 @@
   "NeoPixelColors.Purple|block": "magenta",
   "NeoPixelColors.Red|block": "rot",
   "NeoPixelColors.Violet|block": "blauviolett",
-  "NeoPixelColors.White|block": "weiß",
+  "NeoPixelColors.White|block": "weiß!",
   "NeoPixelColors.Yellow|block": "gelb",
   "NeoPixelMode.RGBW|block": "RGB+W",
   "NeoPixelMode.RGB_RGB|block": "RGB (RGB Format)",
